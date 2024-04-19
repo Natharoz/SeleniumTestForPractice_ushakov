@@ -1,6 +1,17 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29f77acb_002Df776_002D42c4_002D9533_002D49f60e3354cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Authorization" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29f77acb_002Df776_002D42c4_002D9533_002D49f60e3354cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Authorization" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;CA8E72FF-A2FA-4DF5-8FD0-4B212A2B5223/f:SeleniumTestsForPractice.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=42bfb7df_002Dea03_002D4f4e_002Db4b4_002D07d1f33c2eea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="EditProfileTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::CA8E72FF-A2FA-4DF5-8FD0-4B212A2B5223::net6.0::Seleniumtests_ushakov.SeleniumTestsForPractice.Authorization&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CA8E72FF-A2FA-4DF5-8FD0-4B212A2B5223::net6.0::Seleniumtests_ushakov.SeleniumTestsForPractice&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c43da81e_002Dd6cb_002D462e_002D94d1_002Df4a9d06ece04/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AuthorizationTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CA8E72FF-A2FA-4DF5-8FD0-4B212A2B5223::net6.0::Seleniumtests_ushakov.SeleniumTestsForPractice.AuthorizationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CA8E72FF-A2FA-4DF5-8FD0-4B212A2B5223::net6.0::Seleniumtests_ushakov.SeleniumTestsForPractice.EditProfileTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CA8E72FF-A2FA-4DF5-8FD0-4B212A2B5223::net6.0::Seleniumtests_ushakov.SeleniumTestsForPractice.NavigationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CA8E72FF-A2FA-4DF5-8FD0-4B212A2B5223::net6.0::Seleniumtests_ushakov.SeleniumTestsForPractice.SearchProfileTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
